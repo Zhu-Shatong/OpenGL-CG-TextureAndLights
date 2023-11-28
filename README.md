@@ -16,6 +16,8 @@ Programming 作业要求：
 
 <iframe src="//player.bilibili.com/player.html?aid=408921621&bvid=BV1iG411S7TG&cid=1346776345&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+https://www.bilibili.com/video/BV1iG411S7TG/
+
 ![{8A94C9BF-04C6-478e-B1F5-1B40083F1AF5}](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/{8A94C9BF-04C6-478e-B1F5-1B40083F1AF5}.png)
 
 ### 关键词：
