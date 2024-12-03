@@ -114,6 +114,8 @@ To run the program, follow the instructions below.  (using Visual Studio)
 
 - Visual Studio 2022 or later (or earlier versions with adjustments as mentioned above).
 
+# Related Issue
+- See [#1](https://github.com/Zhu-Shatong/OpenGL-CG-TextureAndLights/issues/1) for more details about problem related to "glfw3.lib".
   
 
 ## Additional Configuration
